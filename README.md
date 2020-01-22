@@ -1,2 +1,2 @@
 # random
-tried to make a minimalist website (ignore content its just my insecurities)
+tried to make a minimalist static website (ignore content its just my insecurities)
